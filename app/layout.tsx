@@ -17,7 +17,7 @@ const playfair = Playfair_Display({
 
 // Cấu hình Metadata cho website (SEO, Tiêu đề, Mô tả)
 export const metadata: Metadata = {
-  title: "Queency Spa - Gel bôi phụ khoa",
+  title: "Queency Spa",
   description:
     "Queency Spa - Spa trị liệu kết hợp công nghệ cao cấp. Dịch vụ thải độc, se khít, nâng cơ với liệu trình hiệu quả tại Cầu Kiệu.",
   generator: "v0.app",
