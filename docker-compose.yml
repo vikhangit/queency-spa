@@ -1,0 +1,23 @@
+
+services:
+  queency-spa:
+    container_name: queency-spa
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+
+    ports:
+      - "127.0.0.1:3003:3003"   # ch? localhost
+
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3003"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
