@@ -88,9 +88,17 @@ export default function AdminPage() {
 
   useEffect(() => {
     fetch("/api/content")
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) throw new Error("Failed to fetch")
+        return res.json()
+      })
       .then((data) => {
         setContent(data)
+        setLoading(false)
+      })
+      .catch((err) => {
+        console.error(err)
+        toast.error("Không thể tải nội dung. Vui lòng kiểm tra lại server.")
         setLoading(false)
       })
   }, [])
@@ -156,6 +164,13 @@ export default function AdminPage() {
   }
 
   if (loading) return <div className="p-8 text-center">Đang tải nội dung...</div>
+
+  if (!content) return (
+    <div className="p-8 text-center">
+      <div className="text-destructive mb-4">Lỗi: Không thể tải nội dung trang web.</div>
+      <Button onClick={() => window.location.reload()}>Thử lại</Button>
+    </div>
+  )
 
   const updateField = (section: string, field: string, value: any) => {
     setContent({

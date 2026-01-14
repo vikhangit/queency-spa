@@ -33,8 +33,8 @@ COPY --from=builder /app/package.json ./package.json
 COPY --from=builder /app/next.config.* ./
 COPY --from=builder /app/data ./data
 
-# Set permissions for data and uploads directory
-RUN chown -R app:app ./data ./public/uploads
+# Ensure uploads directory exists and set permissions
+RUN mkdir -p ./public/uploads && chown -R app:app ./data ./public/uploads
 
 USER app
 
