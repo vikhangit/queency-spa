@@ -1,0 +1,367 @@
+{
+  "header": {
+    "logo": "/images/logo-20queency.jpg",
+    "name": "Queency Spa",
+    "slogan": "Spa Công Nghệ Cao Cấp"
+  },
+  "hero": {
+    "title": "Spa Chăm Sóc Sức Khoẻ",
+    "highlight": "Sức Khoẻ",
+    "slogan": "Trải Nghiệm Thư Giãn Và Làm Đẹp Cao Cấp",
+    "description": "Các liệu trình được thiết kế riêng để mang lại kết quả tốt nhất cho bạn với công nghệ hiện đại và tinh dầu tự nhiên",
+    "backgroundImage": "/luxury-spa-treatment-woman-beautiful-skin-wellness.jpg",
+    "bookingUrl": "https://zalo.me/0916821913"
+  },
+  "features": [
+    {
+      "title": "Hiệu Quả Ngay Từ Lần Đầu",
+      "description": "Kết quả rõ rệt chỉ sau 90 phút liệu trình"
+    },
+    {
+      "title": "Không Xâm Lấn",
+      "description": "Không tiêm chích, không phẫu thuật, an toàn cho da"
+    },
+    {
+      "title": "Không Nghỉ Dưỡng",
+      "description": "Quay lại công việc ngay sau liệu trình"
+    },
+    {
+      "title": "Bảo Mật Thông Tin",
+      "description": "Không gian riêng tư, bảo vệ quyền riêng tư khách hàng"
+    }
+  ],
+  "featuredService": {
+    "title": "GEL BÔI PHỤ KHOA",
+    "brand": "QUEENCY",
+    "subtitle": "SPA TRỊ LIỆU KẾT HỢP CÔNG NGHỆ CAO CẤP",
+    "description": "Liệu trình dưỡng sinh phong thủy, thải độc toàn thân, se khít và nâng cơ hiệu quả",
+    "bannerImage": "https://blob.v0.app/Cpqk0.png",
+    "details": {
+      "fullDescription": "Gel bôi phụ khoa Queency được thiết kế đặc biệt với thành phần tự nhiên 100%, hỗ trợ kháng khuẩn, giảm viêm nhiễm và khử mùi hôi hiệu quả. Sản phẩm kích thích cơ thể giải phóng oxytocin - hormone tình yêu, giúp tạo cảm giác thư thái, an toàn và hưng phấn.",
+      "ingredients": [
+        "Nước tinh khiết",
+        "Thạch lựu",
+        "Dâm bụt",
+        "PEG 40 Hydrogenated castor oil",
+        "Cát cánh",
+        "Trầu không",
+        "Vitamin E",
+        "Nghệ đen",
+        "Quế chi",
+        "Glycerin",
+        "Xanthan gum",
+        "Panthenol",
+        "1,2-Hexanediol & Butylene Glycol"
+      ],
+      "benefits": [
+        "Hỗ trợ kháng khuẩn và giảm viêm nhiễm",
+        "Khử mùi hôi và đào thải chất bẩn",
+        "Giảm nấm ngứa, ngứa, rát vùng kín",
+        "Kích thích giải phóng oxytocin - hormone tình yêu",
+        "Tạo cảm giác thư thái, an toàn và hưng phấn"
+      ],
+      "usage": "Mỗi lần dùng 1 lượng bằng 1 đốt ngón tay trỏ, thoa đều lên niêm mạc âm đạo. Số lần thoa tùy theo tình trạng của mỗi người. Không cần rửa lại với nước sau khi sử dụng sản phẩm.",
+      "targetAudience": [
+        "Nữ giới bị viêm âm đạo với các triệu chứng khí hư, khô, ngứa, đỏ, rát",
+        "Nữ giới muốn giữ lâu hạnh phúc gia đình và tìm lại tuổi thanh xuân",
+        "Phụ nữ muốn se khít và hưng phấn trong đời sống tình dục"
+      ],
+      "contraindications": "Không sử dụng cho phụ nữ có thai hoặc đang trong chu kỳ kinh nguyệt.",
+      "storage": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng."
+    }
+  },
+  "services": [
+    {
+      "id": "se_khit",
+      "icon": "Wind",
+      "title": "Se Khít Vùng Kín",
+      "description": "Liệu trình phong thủy dưỡng sinh với massage tinh chất chuyên biệt",
+      "price": "2.400K",
+      "duration": "90 phút",
+      "benefits": [
+        "Se khít vùng kín tự nhiên",
+        "Cải thiện độ đàn hồi da",
+        "Tăng cảm nhận và hạnh phúc",
+        "Cân bằng độ ẩm tự nhiên",
+        "Giảm mệt mỏi phụ khoa"
+      ],
+      "suitable_for": "Phụ nữ sau sinh, tuổi tác, hoặc muốn cải thiện sức khỏe phụ khoa",
+      "process": [
+        "Tư vấn và đánh giá tình trạng hiện tại",
+        "Làm sạch và chuẩn bị vùng điều trị",
+        "Massage với tinh dầu chuyên biệt 45 phút",
+        "Áp dụng gel bôi phụ khoa Queency",
+        "Chăm sóc và tư vấn sau liệu trình"
+      ],
+      "contraindications": [
+        "Không thực hiện nếu đang trong chu kỳ kinh nguyệt",
+        "Tránh nếu có chấn thương hoặc viêm nhiễm cấp tính",
+        "Không dành cho phụ nữ mang thai",
+        "Kiểm tra dị ứng với tinh dầu trước liệu trình"
+      ]
+    },
+    {
+      "id": "thai_doc",
+      "icon": "Zap",
+      "title": "Thải Độc Toàn Thân",
+      "description": "Massage trị liệu thông kinh lạc, lưu thông khí huyết",
+      "price": "2.720K",
+      "duration": "200 phút",
+      "benefits": [
+        "Thải độc cơ thể hiệu quả",
+        "Tăng cường miễn dịch",
+        "Cải thiện tuần hoàn máu",
+        "Giảm căng thẳng và mệt mỏi",
+        "Đẩy lùi các bệnh mãn tính"
+      ],
+      "suitable_for": "Mọi người, đặc biệt những ai sống trong môi trường ô nhiễm hoặc căng thẳng",
+      "process": [
+        "Tư vấn sức khỏe toàn thân",
+        "Massage toàn bộ cơ thể 120 phút",
+        "Xoa bóp các điểm acupuncture chính",
+        "Tắm tinh dầu thải độc",
+        "Uống nước chanh ấm và nghỉ ngơi"
+      ],
+      "contraindications": [
+        "Không thực hiện khi sốt hoặc ốm",
+        "Tránh nếu có bệnh tim hoặc huyết áp không ổn định",
+        "Không làm sau khi ăn quá no",
+        "Chờ 2 giờ trước khi tắm nước lạnh"
+      ]
+    },
+    {
+      "id": "nang_co",
+      "icon": "Sparkles",
+      "title": "Nâng Cơ Mặt V-line",
+      "description": "Điêu khắc body với công nghệ sóng siêu thanh",
+      "price": "1.120K",
+      "duration": "60 phút",
+      "benefits": [
+        "Nâng cơ mặt tự nhiên",
+        "Tạo V-line sắc nét",
+        "Giảm chảy xệ da",
+        "Tăng độ sáng da",
+        "Cải thiện lòi xo khuôn mặt"
+      ],
+      "suitable_for": "Phụ nữ muốn cải thiện khuôn mặt, giảm chảy xệ, hay nếp nhăn",
+      "process": [
+        "Làm sạch da mặt kỹ lưỡng",
+        "Đắp mặt nạ dưỡng ẩm",
+        "Massage mặt và cổ 20 phút",
+        "Sử dụng công nghệ sóng siêu thanh 25 phút",
+        "Chăm sóc da cuối cùng với mỹ phẩm cao cấp"
+      ],
+      "contraindications": [
+        "Không làm nếu da bị tổn thương",
+        "Tránh nếu vừa tiêm botox (chờ 2 tuần)",
+        "Không dành cho phụ nữ mang thai",
+        "Kiểm tra nhạy cảm da trước"
+      ]
+    },
+    {
+      "id": "siet_eo",
+      "icon": "Leaf",
+      "title": "Siết Eo Detox",
+      "description": "Cân bằng nội tiết, định hình vòng eo săn chắc",
+      "price": "1.600K",
+      "duration": "90 phút",
+      "benefits": [
+        "Giảm mỡ bụng hiệu quả",
+        "Siết chặt vòng eo",
+        "Cân bằng hormone nội tiết",
+        "Tăng tốc độ chuyển hóa",
+        "Cải thiện tiêu hóa"
+      ],
+      "suitable_for": "Phụ nữ muốn giảm cân, định hình vòng eo, hoặc cân bằng nội tiết",
+      "process": [
+        "Tư vấn dinh dưỡng và lối sống",
+        "Massage eo và bụng 45 phút",
+        "Áp dụng tinh dầu detox",
+        "Quấn nóng vùng eo 30 phút",
+        "Uống nước detox và tư vấn chế độ ăn"
+      ],
+      "contraindications": [
+        "Không thực hiện khi mang thai",
+        "Tránh nếu có bệnh tim hoặc huyết áp cao",
+        "Không làm sau khi ăn nhiều",
+        "Không áp dụng nếu da bị tổn thương"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "gel-phu-khoa",
+      "name": "GEL BÔI PHỤ KHOA QUEENCY KLT",
+      "image": "/images/z5590074347484-38c82c27d9f02a6eaa1a91df5b3ad846.jpg",
+      "price": "1.200K",
+      "description": "Gel bôi phụ khoa Queency được thiết kế đặc biệt với thành phần tự nhiên 100%, hỗ trợ kháng khuẩn, giảm viêm nhiễm và khử mùi hôi hiệu quả. Sản phẩm kích thích cơ thể giải phóng oxytocin - hormone tình yêu, giúp tạo cảm giác thư thái, an toàn và hưng phấn.",
+      "ingredients": [
+        "Nước tinh khiết",
+        "Thạch lựu",
+        "Dâm bụt",
+        "PEG 40 Hydrogenated castor oil",
+        "Cát cánh",
+        "Trầu không",
+        "Vitamin E",
+        "Nghệ đen",
+        "Quế chi",
+        "Glycerin",
+        "Xanthan gum",
+        "Panthenol",
+        "1,2-Hexanediol & Butylene Glycol",
+        "Illicium Verum (Anise) Fruit Extract",
+        "Scutellaria Baicalensis Root Extract",
+        "Allantoin",
+        "Acid lactic"
+      ],
+      "uses": [
+        "Hỗ trợ kháng khuẩn và giảm viêm nhiễm",
+        "Khử mùi hôi và đào thải chất bẩn",
+        "Giảm nấm ngứa, ngứa, rát vùng kín",
+        "Kích thích giải phóng oxytocin - hormone tình yêu",
+        "Tạo cảm giác thư thái, an toàn và hưng phấn"
+      ],
+      "targetAudience": [
+        "Nữ giới bị viêm âm đạo với các triệu chứng khí hư, khô, ngứa, đỏ, rát",
+        "Nữ giới muốn giữ lâu hạnh phúc gia đình và tìm lại tuổi thanh xuân",
+        "Phụ nữ muốn se khít và hưng phấn trong đời sống tình dục"
+      ],
+      "usage": "Mỗi lần dùng 1 lượng bằng 1 đốt ngón tay trỏ, thoa đều lên niêm mạc âm đạo. Số lần thoa tùy theo tình trạng của mỗi người. Không cần rửa lại với nước sau khi sử dụng sản phẩm.",
+      "contraindications": "Không sử dụng cho phụ nữ có thai hoặc đang trong chu kỳ kinh nguyệt.",
+      "storage": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.",
+      "manufacturer": "Sản xuất bởi Công Ty TNHH Medistar Việt Nam, Lô 38-2, Khu công nghiệp Quang Minh, Thị trấn Quang Minh, Huyện Mê Linh, Thành phố Hà Nội.",
+      "registrationNumber": "240001519/PCBB-HCM"
+    }
+  ],
+  "promo": {
+    "title": "Combo 10 Suất",
+    "highlight": "Tặng 2 Suất",
+    "subtitle": "Đặc Biệt: Khi Mua Gói Combo Vào Ngày Khai Trương",
+    "features": [
+      "Bộ sản phẩm Queency 3 chai trị giá 1.910.000 VNĐ",
+      "Tặng kèm các phụ kiện cao cấp",
+      "Hỗ trợ tư vấn từ chuyên gia"
+    ],
+    "price": "1.910.000",
+    "currency": "VNĐ",
+    "priceLabel": "Giá Combo Khai Trương"
+  },
+  "pricing": [
+    {
+      "category": "Thải Độc",
+      "items": [
+        {
+          "name": "Thái độc toàn thân (2 mặt)",
+          "price": "2.720K",
+          "duration": "200 phút"
+        },
+        {
+          "name": "Se khít vùng kín",
+          "price": "2.400K",
+          "duration": "90 phút"
+        },
+        {
+          "name": "Thải độc Vai cổ gáy",
+          "price": "480K",
+          "duration": "45 phút"
+        }
+      ]
+    },
+    {
+      "category": "Điêu Khắc Body",
+      "items": [
+        {
+          "name": "Nâng ngực",
+          "price": "960K",
+          "duration": "60 phút"
+        },
+        {
+          "name": "Nâng cơ mặt V-line",
+          "price": "1.120K",
+          "duration": "60 phút"
+        },
+        {
+          "name": "Giảm nọng cằm",
+          "price": "552K",
+          "duration": "60 phút"
+        }
+      ]
+    },
+    {
+      "category": "Chăm Sóc Đặc Biệt",
+      "items": [
+        {
+          "name": "Thải độc mắt",
+          "price": "320K",
+          "duration": "45 phút"
+        },
+        {
+          "name": "Thải độc não",
+          "price": "320K",
+          "duration": "45 phút"
+        },
+        {
+          "name": "Gội đầu trượt khí",
+          "price": "199K",
+          "duration": "60 phút"
+        }
+      ]
+    }
+  ],
+  "benefits": {
+    "title": "Khách Hàng Được Trải Nghiệm Miễn Phí",
+    "subtitle": "Khai Trương - Ưu Đãi Đặc Biệt Nhân Dịp",
+    "image": "/images/menu-20-c4-91-e1-bb-83-20b-c3-a0n-20queency-1.jpg",
+    "items": [
+      {
+        "icon": "CheckCircle",
+        "title": "36 Chỉ Số Sinh Học",
+        "description": "Đo đạc toàn diện trước liệu trình"
+      },
+      {
+        "icon": "Users",
+        "title": "Tư Vấn Sức Khỏe",
+        "description": "Thăm khám sức khỏe miễn phí từ chuyên gia"
+      },
+      {
+        "icon": "Gift",
+        "title": "Huyết Vùng Vai Cô Gáy",
+        "description": "Lưu thông khí huyết vùng vai cô gáy"
+      },
+      {
+        "icon": "Heart",
+        "title": "Huyệt Nào, Nào",
+        "description": "Thái độc lưu thông khí huyết nào"
+      },
+      {
+        "icon": "Gift",
+        "title": "Chăm Sóc Ủ Trắng",
+        "description": "Chăm sóc ủ trắng đối bàn tay"
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Kiểm Tra Răng",
+        "description": "Clean răng, kiểm tra răng miễn phí"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Liên Hệ Với Chúng Tôi",
+    "phone": "0916821913",
+    "phoneSecondary": "0938 214 186",
+    "address": "1A Đặng Thai Mai",
+    "addressDetails": "P. Cầu Kiệu, Hồ Chí Minh",
+    "workingHours": "Thứ 2 - Thứ 7: 9:00 - 19:00",
+    "workingHoursSecondary": "Chủ nhật: Đóng cửa",
+    "zaloPrompt": "Liên hệ ngay qua Zalo để được tư vấn"
+  },
+  "footer": {
+    "description": "Spa trị liệu kết hợp công nghệ cao cấp",
+    "socialLinks": {
+      "facebook": "#",
+      "instagram": "#",
+      "tiktok": "#"
+    },
+    "copyright": "© 2026 Queency Spa. All rights reserved."
+  }
+}
